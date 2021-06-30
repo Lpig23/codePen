@@ -1,9 +1,8 @@
-
-	[
-	["money", "Name", "Year","Month"],
+[
+	["money", "Name", "Year", "Month"],
 	[12312, "XiaoRmb", 2021, 3],
-	[234324, "ZhongRmb", 2021, 3],
-	[303453 "DaRmb", 2021, 3],
+	[23432, "ZhongRmb", 2021, 3],
+	[30345, "DaRmb", 2021, 3],
 	[42323, "XiaoRmb", 2021, 4],
 	[20000, "ZhongRmb", 2021, 4],
 	[53452, "DaRmb", 2021, 4],
