@@ -1,0 +1,26 @@
+[
+    {
+        "code": "DR",
+        "emoji": "高级玩家",
+        "unicode": "U+1F1FF U+1F1FC",
+        "name": "DaRmb",
+        "title": "flag for DaRmb",
+        "dialCode": "+263"
+    },
+    {
+        "code": "ZR",
+        "emoji": "中级玩家",
+        "unicode": "U+1F1FF U+1F1FC",
+        "name": "ZhongRmb",
+        "title": "flag for ZhongRmb",
+        "dialCode": "+263"
+    },
+    {
+        "code": "XR",
+        "emoji": "初级玩家",
+        "unicode": "U+1F1FF U+1F1FC",
+        "name": "XiaoRmb",
+        "title": "flag for XiaoRmb",
+        "dialCode": "+263"
+    }
+]
